@@ -12,3 +12,4 @@ C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\Animals\obj\Debug\n
 C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\Animals\obj\Debug\net8.0\Animals.pdb
 C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
 C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\Animals\obj\Debug\net8.0\ref\Animals.dll
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\Animals\obj\Debug\net8.0\Animals.sourcelink.json
