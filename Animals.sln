@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{17395A86-C614-4733-A54D-A480BCFAE9A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMovable", "IMovable\IMovable.csproj", "{76B62652-C921-4699-8DF5-48B9E049829D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{17395A86-C614-4733-A54D-A480BCFAE9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17395A86-C614-4733-A54D-A480BCFAE9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17395A86-C614-4733-A54D-A480BCFAE9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B62652-C921-4699-8DF5-48B9E049829D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B62652-C921-4699-8DF5-48B9E049829D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B62652-C921-4699-8DF5-48B9E049829D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B62652-C921-4699-8DF5-48B9E049829D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

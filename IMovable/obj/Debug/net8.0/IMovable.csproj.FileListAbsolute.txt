@@ -1,0 +1,15 @@
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\bin\Debug\net8.0\IMovable.exe
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\bin\Debug\net8.0\IMovable.deps.json
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\bin\Debug\net8.0\IMovable.runtimeconfig.json
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\bin\Debug\net8.0\IMovable.dll
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\bin\Debug\net8.0\IMovable.pdb
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.AssemblyInfoInputs.cache
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.AssemblyInfo.cs
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.csproj.CoreCompileInputs.cache
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.sourcelink.json
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.dll
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\refint\IMovable.dll
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.pdb
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\IMovable.genruntimeconfig.cache
+C:\Users\denni\Documents\GitHub\dcit318-assignment2-10975201\IMovable\obj\Debug\net8.0\ref\IMovable.dll
